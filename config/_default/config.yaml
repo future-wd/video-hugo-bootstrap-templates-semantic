@@ -1,0 +1,11 @@
+baseURL: "http://example.org/"
+languageCode: en-au
+title: Templates and Semantic Elements
+
+paginate: 3
+summaryLength: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
