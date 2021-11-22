@@ -1,3 +1,3 @@
-# Tutorial - Bootstrap 5 Navbar with HUGO - Introduction
+# Tutorial - Bootstrap 5 with semantic tags and Hugo
 
-Watch the video at <https://youtu.be/MPSFjC4kcuo>
+Watch the video at <https://www.youtube.com/watch?v=bt6be18-cxg>
